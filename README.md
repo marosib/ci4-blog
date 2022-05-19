@@ -1,8 +1,9 @@
 For this project to run you will need XAMPP installed.
 
 1. Run Apache and MySQL.
-2. Remove '#' and change the base url in .env (app.baseURL = 'http://localhost/{YOUR_DESIRED_ROUTE')
-3. Register and create some blog posts.
+2. Import the sql/blog.sql file to phpmyadmin. 
+3. Remove '#' and change the base url in .env (app.baseURL = 'http://localhost/{YOUR_DESIRED_ROUTE}')
+4. Register and create some blog posts.
 
 # CodeIgniter 4 Application Starter
 
